@@ -43,15 +43,6 @@ print(f"Text: {text} => Label: {result[0]['label']}, Score: {result[0]['score']}
 
 While the model performs well on the training and validation sets, it may not generalize perfectly to all types of text inputs, especially those that are significantly different from the training data. Be cautious of potential biases in the training data that may affect model performance.
 
-## Test it by yourself!
-Write something:
-
-<iframe
-    src="https://huggingface.co/spaces/luzalbaposse/HelloBERT?widget"
-    width="100%"
-    height="300px"
-></iframe>
-
 ## Author
 
 This model was fine-tuned by [Luz Alba Posse](https://huggingface.co/luzalbaposse).
