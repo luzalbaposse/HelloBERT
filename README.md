@@ -2,6 +2,10 @@
 
 HelloBERT is a fine-tuned BERT model for text classification, designed to identify greetings (`greeting`) and non-greetings (`not_greeting`) in both English and Spanish. The model is based on `bert-base-uncased`.
 
+## Little Warning : )
+> Nota: Es la primera vez que hice algo así, así que en el repo podés encontrar algunas notas sobre métricas y demás, bastante anotado porque es parte de mi aprendizaje sobre el tema : )
+> Note: This is the first time I did something like this, so you will find some notes about metrics, part of my learning journey : )
+
 ## Intended Use
 
 This model is intended for identifying whether a given text is a greeting or not. It can be used in various applications such as chatbots, automated customer service, and text analysis tools.
